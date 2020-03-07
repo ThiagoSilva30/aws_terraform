@@ -3,11 +3,11 @@ variable "region" {
     description = "main region"
 }
 variable "access_key" {
-   default = "AKIA24PLHVUNOTXPXXCU"
+   default = "<>"
 }
 
 variable "secret_key" {
-    default = "Hrl5B7q9nG8ae/Dvz/0RNLPTpAEmUdTan0ZMmbf0"
+    default = "<>"
 }
 
 variable "bucket" {
